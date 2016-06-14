@@ -1,0 +1,28 @@
+.link {
+    stroke: tomato;
+    stroke-width: 1px;
+}
+
+#chart {
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  background-color: steelblue;
+}
+
+.tooltip {
+  position: absolute;
+  opacity: 0;
+  background-color: steelblue;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  font-size: 1.5em;
+}
+
+/* Flag stuff
+***************/
+
+.flag {
+  position: absolute;
+}
